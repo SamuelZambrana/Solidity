@@ -1,5 +1,6 @@
 ## Descripción 
 Buen material adquirido del Máster Completo de Blockchain y Web3 de cero a experto 2024 por el instructor Joan Amengual.
+
 Podeis comprar este curso en : https://www.udemy.com/course/bootcamp-blockchain-cero-experto/?kw=master+completo&src=sac&couponCode=ST22FS22724
 
 Blockchain es uno de los campos tecnológicos más punteros en el que todos quieren estar. Y es que Blockchain está cambiando la vida de las personas al igual que lo hizo la electricidad hace ya 100 años. Las palabras Blockchain, Cadena de Bloques, Bitcoin, Ethereum cada vez están más presente en la vida de todos nosotros, la revolución de las criptomonedas ya es una realidad.
