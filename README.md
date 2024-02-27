@@ -1,5 +1,5 @@
 ## Descripción 
-Buen material adquirido del Máster Completo de Blockchain y Web3 de cero a experto 2024 por el instructor Joan Amengual.
+Buena documentacion adquirida del Máster Completo de Blockchain y Web3 de cero a experto 2024 por el instructor Joan Amengual.
 
 Podeis comprar este curso en : https://www.udemy.com/course/bootcamp-blockchain-cero-experto/?kw=master+completo&src=sac&couponCode=ST22FS22724
 
